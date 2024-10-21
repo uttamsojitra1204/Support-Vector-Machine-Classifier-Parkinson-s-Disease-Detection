@@ -1,6 +1,7 @@
 # Support-Vector-Machine-Classifier-Parkinson-s-Disease-Detection
 
 => 🔧 Project Architecture
+
 => The project follows these steps:
 
 1. Data Preprocessing:
